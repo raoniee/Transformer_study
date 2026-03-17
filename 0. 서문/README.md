@@ -7,15 +7,20 @@
 | 데이터 | 텍스트      | 시퀀스      | 공간 패턴 |
 
 ### 실제 NLP 모델 발전 과정
-NLP
+NLP  
+
  ↓
-RNN
+RNN  
+
  ↓
-LSTM / GRU
+LSTM / GRU  
+
  ↓
-CNN for NLP
+CNN for NLP  
+
  ↓
-Transformer
+Transformer  
+
  ↓
 LLM (GPT, BERT)
 
